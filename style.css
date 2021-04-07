@@ -116,6 +116,8 @@ button {
     left: 678px;
     border-radius: 4px;
  }
+ /* 1 block_lite */
+ 
  .lite_c {
      position: absolute; 
      width: 40px;
@@ -232,5 +234,127 @@ button {
     top: 230px;
     left: 84px; 
    }
+
+/* 2 block_basic */
+   .basic_c {
+    position: absolute; 
+    width: 40px;
+    height: 40px; 
+    background: #81C926;
+    border: 2px solid #FFFFFF;
+    border-radius: 50%;
+    top: -18px;
+    left: 32px;
+    z-index: 2;
+  
+}
+
+.basic_img {
+   position: absolute;
+   top: 10px;
+   right: 9px;
+   z-index: 1;
+}
+
+.basic_h2 {
+   position: absolute; 
+   color: #FFFFFF;
+   top: 45px;
+   left: 30px;
+   font-weight: normal;
+   font-size: 17px;
+
+}
+
+.basic_69 {
+  position: absolute; 
+  font-weight: normal;
+  font-size: 34px; 
+  top: 75px;
+  left: 30px;
+  }
+
+.basic_mo {
+   position: absolute; 
+   font-weight: normal;
+   font-size: 15px; 
+   color: #ECF5FD;
+   top: 94px;
+   left: 91px;
+}
+
+.basic_text {
+   position: absolute; 
+   font-weight: normal;
+   font-size: 13px; 
+   color: #FFFFFF;
+   top: 122px;
+   left: 30px;
+   opacity: 0.7;
+
+}
+
+.basic_line {
+   position: absolute;
+   top: 81px;  
+   left: 0px;
+  }
+
+  .basic_1gb  {
+   position: absolute; 
+   font-weight: normal;
+   font-size: 13px; 
+   color: #FFFFFF;
+   top: 182px;
+   left: 30px; 
+  }
+
+  .basic_1cpu  {
+   position: absolute; 
+   font-weight: normal;
+   font-size: 13px; 
+   color: #FFFFFF;
+   top: 182px;
+   left: 79px; 
+   opacity: 0.7;
+  }
+
+  .basic_40  {
+   position: absolute; 
+   font-weight: normal;
+   font-size: 13px; 
+   color: #FFFFFF;
+   top: 206px;
+   left: 30px; 
+  }
+
+  .basic_ssd {
+   position: absolute; 
+   font-weight: normal;
+   font-size: 13px; 
+   color: #FFFFFF;
+   top: 206px;
+   left: 69px; 
+   opacity: 0.7;
+  }
+
+  .basic_3Tb  {
+   position: absolute; 
+   font-weight: normal;
+   font-size: 13px; 
+   color: #FFFFFF;
+   top: 230px;
+   left: 30px; 
+  }
+
+  .basic_Transfer {
+   position: absolute; 
+   font-weight: normal;
+   font-size: 13px; 
+   color: #FFFFFF;
+   top: 230px;
+   left: 84px; 
+   opacity: 0.7;
+  }
 
   
