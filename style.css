@@ -175,6 +175,62 @@ button {
 
 .lite_line {
     position: absolute;
-    top: 181px;  
+    top: 161px;  
     left: 0px;
    }
+
+   .lite_512  {
+    position: absolute; 
+    font-weight: normal;
+    font-size: 13px; 
+    color: #FFFFFF;
+    top: 182px;
+    left: 30px; 
+   }
+
+   .lite_1cpu  {
+    position: absolute; 
+    font-weight: normal;
+    font-size: 13px; 
+    color: #67859E;;
+    top: 182px;
+    left: 79px; 
+   }
+
+   .lite_20  {
+    position: absolute; 
+    font-weight: normal;
+    font-size: 13px; 
+    color: #FFFFFF;
+    top: 206px;
+    left: 30px; 
+   }
+
+   .lite_ssd {
+    position: absolute; 
+    font-weight: normal;
+    font-size: 13px; 
+    color: #67859E;;
+    top: 206px;
+    left: 69px; 
+   }
+
+   .lite_1000  {
+    position: absolute; 
+    font-weight: normal;
+    font-size: 13px; 
+    color: #FFFFFF;
+    top: 230px;
+    left: 30px; 
+   }
+
+   .lite_Transfer {
+    position: absolute; 
+    font-weight: normal;
+    font-size: 13px; 
+    color: #67859E;;
+    top: 230px;
+    left: 84px; 
+   }
+
+  
